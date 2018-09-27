@@ -1,0 +1,7 @@
+venv/*
+*.pyc
+dist/*
+build/*
+.idea/*
+.DS_Store
+docker/pgdata/*
